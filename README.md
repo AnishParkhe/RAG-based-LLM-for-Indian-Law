@@ -31,14 +31,6 @@ The system has two main versions:
 
 ---
 
-## 📁 Folder Structure
-
-├── RAG_Final_Final(1).ipynb       # Standard version with OpenAI-based RAG
-├── /gemini_version/               # Folder with improved Gemini-based implementation
-├── /data/                         # Embedded legal data (FAISS/JSON format)
-├── README.md
----
-
 ## 📌 Notes
 
 - The Gemini version is currently the **recommended** one due to improved quality.
